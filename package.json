@@ -1,0 +1,20 @@
+{
+  "name": "campanita-store-0.01",
+  "version": "1.0.0",
+  "description": "Campanita Store",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Jose Miguel Mateo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
